@@ -2,6 +2,8 @@
 
 hahahahahah. hahaha111
 
+## `goodbye.py` é bonus
+
 # AAAAAAAAAAAAAAAAAAAAAAAAAAA
 Way back when I was just a little bitty boy
 Living in a box under the stairs
